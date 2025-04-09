@@ -17,3 +17,5 @@ Uma landing page moderna, responsiva e interativa inspirada na Nike, com foco na
 - **HTML5** — estrutura da página
 - **CSS3** — estilização com animações e responsividade
 - **JavaScript** — interatividade (troca de imagem e animações)
+
+- Para acessar este projeto clique aqui https://whimsical-pegasus-028c92.netlify.app/
